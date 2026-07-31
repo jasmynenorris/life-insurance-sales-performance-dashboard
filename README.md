@@ -2,7 +2,7 @@
 
 ## Dashboard Preview
 
-![Dashboard](Life%20Insurance%20Sales%20Dashboard.png)
+![Dashboard](Life_Insurance_Sales_Dashboard.png)
 
 ---
 
