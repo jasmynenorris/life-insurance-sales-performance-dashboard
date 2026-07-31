@@ -6,7 +6,7 @@ An executive Power BI dashboard built using a simulated life insurance sales dat
 
 ## Dashboard Preview
 
-![Dashboard](Life_Insurance_Sales_Dashboard.png)
+![Dashboard](dashboard.png)
 
 ---
 
